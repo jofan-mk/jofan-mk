@@ -37,6 +37,6 @@ _AI/ML-curious student & builder — looking to collaborate with other engineers
 - LinkedIn: **Jofan Kalengkongan**
 - X/Twitter: **@brokecsstudent**
 - Instagram: **@jofan.k**
-- Email: **jofankalengkongan01@gmail.com**
+- Email: **klngkognjfan@gmail.com**
 
 ---
