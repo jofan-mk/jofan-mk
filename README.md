@@ -30,12 +30,6 @@ _AI/ML-curious student & builder — looking to collaborate with other engineers
 - 📈 *Tiny regression* — predict BMI from a few features, compare MAE vs. RMSE.
 - 🧹 *ETL demo* — clean CSV with **pandas**, load to SQLite, query with SQL.
 
-## GitHub stats (optional)
-> Replace `YOUR_GITHUB_USERNAME` with your username.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" alt="GitHub stats" />
-</p>
 
 ---
 
@@ -46,12 +40,3 @@ _AI/ML-curious student & builder — looking to collaborate with other engineers
 - Email: **jofankalengkongan01@gmail.com**
 
 ---
-
-### Quick start (how to make this appear on your profile)
-1. Create a **public** repo named exactly **`YOUR_GITHUB_USERNAME`**.  
-2. Put this file at the repo root as **`README.md`**.  
-3. Commit & push — done!
-
-<!--
-Want auto-updating sections later? You can use GitHub Actions on a schedule (cron) to refresh parts like “latest posts” or a custom badge. Keep it simple for now; this README already looks great.
--->
