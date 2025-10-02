@@ -8,7 +8,7 @@ _AI/ML-curious student & builder — looking to collaborate with other engineers
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jofan-kalengkongan-490418212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/brokecsstudent?t=43UU76HxIPNReWeVDJyniQ&s=09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jofan.k?igsh=NTU2OGYwcWZyNTZ4)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jofankalengkongan01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:klngkognjfan@gmail.com)
 
 </div>
 
