@@ -49,7 +49,7 @@
 
 ### 🎯 Tiny AI/ML projects (plug-and-play)
 - ** A voice-enabled retrieval-augmented assistant  
-<sub><em>Want any of these scaffolded as folders with README + starter code? I’ll generate them for you.</em></sub>
+
 
 ### 📚 Learning log
 - Current: **SQL** (joins that don’t make me cry)
