@@ -48,9 +48,7 @@
 </p>
 
 ### 🎯 Tiny AI/ML projects (plug-and-play)
-- **🍌 Banana Classifier in 30 lines** – notebook that loads a tiny dataset, trains a quick model, and ships a prediction function.
-- **🎵 “Is this Lo-Fi?”** – audio MFCCs + a simple classifier; outputs a confidence score.
-- **🔎 “What’s Different?”** – image diff with SSIM to highlight changes between two pictures.  
+- ** A voice-enabled retrieval-augmented assistant  
 <sub><em>Want any of these scaffolded as folders with README + starter code? I’ll generate them for you.</em></sub>
 
 ### 📚 Learning log
