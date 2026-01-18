@@ -1,7 +1,7 @@
 <!-- Profile README for: Jofan -->
 <!-- Tip: rename your profile repo to your GitHub username so this shows on your profile -->
 
-<h1 align="center">hey, i'm <span title="pronounced: 'joe-fahn'">Jofan</span> 👋</h1>
+<h1 align="center">hey, i'm <span title="pronounced: 'joe-fahn'">Jofan</span> </h1>
 
 <p align="center">
   <em>AI/ML-curious engineer who loves tiny experiments that actually ship.</em>
