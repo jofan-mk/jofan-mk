@@ -44,15 +44,14 @@
   <!-- SQL has no single logo, so showing two engines I touch -->
   <img alt="PostgreSQL (SQL)" height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
   &nbsp;&nbsp;
-  <img alt="SQLite (SQL)" height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/SQLite_Logo.svg" />
 </p>
 
-### 🎯 Tiny AI/ML projects (plug-and-play)
+### 🎯 Data Science Project
 - ** A voice-enabled retrieval-augmented assistant  
 
 
 ### 📚 Learning log
-- Current: **SQL** (joins that don’t make me cry)
+- Current: **CNN** 
 
 ### 🤝 Collaborate with me
 Open a discussion or DM me anywhere above. If it’s small, weird, and ships in a weekend, I’m in.
