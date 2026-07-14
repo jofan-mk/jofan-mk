@@ -47,11 +47,11 @@
 </p>
 
 ### 🎯 Data Science Project
-- ** A voice-enabled retrieval-augmented assistant  
+- ** Using data to select MSMEs (UMKMs) for MBG (bukan mas bahlil ganteng) Program
 
 
 ### 📚 Learning log
-- Current: **CNN** 
+- Current: **CNN for object detection** 
 
 ### 🤝 Collaborate with me
 Open a discussion or DM me anywhere above. If it’s small, weird, and ships in a weekend, I’m in.
@@ -59,7 +59,7 @@ Open a discussion or DM me anywhere above. If it’s small, weird, and ships in 
 ---
 
 <details>
-<summary>📊 Optional GitHub stats (turn on later)</summary>
+<summary>📊GitHub stats (turn on later)</summary>
 
 > Replace <code>&lt;your-username&gt;</code> with your GitHub handle after you create the profile repo.
 
