@@ -47,7 +47,7 @@
 </p>
 
 ### 🎯 Data Science Project
-- ** Using data to select MSMEs (UMKMs) for MBG (bukan mas bahlil ganteng) Program
+- **Using data to select MSMEs (UMKMs) for MBG (bukan mas bahlil ganteng) Program
 
 
 ### 📚 Learning log
