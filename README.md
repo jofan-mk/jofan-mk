@@ -1,76 +1,34 @@
-<!-- Profile README for: Jofan -->
-<!-- Tip: rename your profile repo to your GitHub username so this shows on your profile -->
+<div align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/06/26/03/02/03-02-03-917_512.gif" width="400" alt="Graph Neural Network Animation" />
+  
+  <h1>Jofan</h1>
+  <p>AI Architectures Student & Machine Learning Enthusiast</p>
+  <br />
+</div>
 
-<h1 align="center">hey, i'm <span title="pronounced: 'joe-fahn'">Jofan</span> </h1>
+## About My Work
+I am a student deeply focused on Artificial Intelligence architectures. My current technical pursuit revolves around advanced PyTorch implementations, computer vision, and exploring post-training pipelines for open-source AI models. Beyond writing code, I actively consume technical literature from O'Reilly and Manning to continuously refine both my theoretical knowledge and problem-solving methodologies.
 
-<p align="center">
-  <em>AI/ML-curious engineer who loves tiny experiments that actually ship.</em>
-</p>
+## Core Technologies
+* **Language:** Python
+* **Frameworks:** PyTorch, Scikit-learn
+* **Data Science:** NumPy, Pandas
+* **Infrastructure:** PostgreSQL, Supabase
 
-<p align="center">
-  <!-- Contact: exact brand logos -->
-  <a href="https://www.linkedin.com/in/jofan-kalengkongan-490418212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
-    <img alt="LinkedIn" height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/brokecsstudent" title="X (Twitter)">
-    <img alt="X" height="28" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/jofan.k?igsh=NTU2OGYwcWZyNTZ4" title="Instagram">
-    <img alt="Instagram" height="28" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Instagram_Glyph_Gradient_RGB_logo.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:klngkognjfan@gmail.com" title="Email">
-    <img alt="Gmail" height="28" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-  </a>
-</p>
+## Current Focus & Collaboration
+* Developing and fine-tuning post-training open-source AI models.
+* Deepening knowledge in advanced PyTorch and Computer Vision.
+* Open to collaborative projects involving both pre-trained and post-trained AI models.
 
----
+## Connect With Me
+* **LinkedIn:** [Jofan Kalengkongan](https://www.linkedin.com/in/jofan-kalengkongan-490418212)
+* **X (Twitter):** [@brokecsstudent](https://x.com/brokecsstudent)
+* **Email:** jofankalengkongan01@gmail.com
+* **Portfolio:** Web portfolio coming soon
 
-### 🧪 What I’m into right now
-- Building **simple AI/ML demos** that feel fun but teach something real  
-- Clean data wrangling > fancy models  
-- Looking for **collaborators & other engineers** to jam with on tiny weekend projects
-
-### 🛠️ Skills 
-<p>
-  <img alt="Python" height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-  &nbsp;&nbsp;
-  <img alt="NumPy" height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
-  &nbsp;&nbsp;
-  <img alt="pandas" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-  &nbsp;&nbsp;
-  <!-- SQL has no single logo, so showing two engines I touch -->
-  <img alt="PostgreSQL (SQL)" height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-  &nbsp;&nbsp;
-</p>
-
-### 🎯 Data Science Project
-- **Using data to select MSMEs (UMKMs) for MBG (bukan mas bahlil ganteng) Program
-
-
-### 📚 Learning log
-- Current: **CNN for object detection** 
-
-### 🤝 Collaborate with me
-Open a discussion or DM me anywhere above. If it’s small, weird, and ships in a weekend, I’m in.
-
----
-
-<details>
-<summary>📊GitHub stats (turn on later)</summary>
-
-> Replace <code>&lt;your-username&gt;</code> with your GitHub handle after you create the profile repo.
-
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact" />
-<br/>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true" />
-
-</details>
-
----
+## GitHub Analytics
 
 <p align="center">
-  <sub>Made with ☕ + curious bugs. </sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=jofan-mk&show_icons=false&theme=transparent&hide_border=true&title_color=1F2328&text_color=1F2328&bg_color=ffffff" alt="Jofan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jofan-mk&layout=compact&theme=transparent&hide_border=true&title_color=1F2328&text_color=1F2328" alt="Jofan's Top Languages" />
 </p>
