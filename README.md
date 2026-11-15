@@ -10,7 +10,7 @@
 
 ---
 
-### ⚡ `[LAYER 00 :: INPUT_TENSOR]` — Identity & Vision Feature Map
+###  `[LAYER 00 :: INPUT_TENSOR]` — Identity & Vision Feature Map
 
 <table>
 <tr>
@@ -39,7 +39,7 @@
 </td>
 <td valign="top" width="62%">
 
-#### 🧠 About My Work
+####  About My Work
 
 I am a student deeply focused on **Artificial Intelligence architectures**. My current technical pursuit revolves around advanced **PyTorch** implementations, **computer vision**, and exploring **post-training pipelines** for open-source AI models.
 
@@ -65,7 +65,7 @@ class JofanArchitecture(nn.Module):
 
 ---
 
-### 🕸️ `[LAYER 01 :: FORWARD_PASS]` — Neural Architecture Pipeline
+###  `[LAYER 01 :: FORWARD_PASS]` — Neural Architecture Pipeline
 
 ```mermaid
 graph LR
@@ -103,7 +103,7 @@ graph LR
 
 ---
 
-### ⚙️ `[LAYER 02 :: WEIGHTS_&_PARAMETERS]` — Core Technologies
+###  `[LAYER 02 :: WEIGHTS_&_PARAMETERS]` — Core Technologies
 
 | Neural Layer | Category | Active Modules | Parameter Status |
 | :--- | :--- | :--- | :--- |
@@ -114,7 +114,7 @@ graph LR
 
 ---
 
-### 🔄 `[LAYER 03 :: BACKPROPAGATION]` — Current Focus & Collaboration
+###  `[LAYER 03 :: BACKPROPAGATION]` — Current Focus & Collaboration
 
 ```text
 +--------------------------------------------------------------------------+
@@ -138,7 +138,7 @@ graph LR
 
 ---
 
-### 📈 `[LAYER 04 :: TELEMETRY]` — GitHub Analytics
+###  `[LAYER 04 :: TELEMETRY]` — GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jofan-mk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=a855f7&text_color=e2e8f0" alt="Jofan's GitHub Stats" />
@@ -147,7 +147,7 @@ graph LR
 
 ---
 
-### 📡 `[LAYER 05 :: OUTPUT_LOGITS]` — Connect With Me
+###  `[LAYER 05 :: OUTPUT_LOGITS]` — Connect With Me
 
 | Node Endpoint | Handle / Address | Signal Badge |
 | :--- | :--- | :--- |
