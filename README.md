@@ -147,11 +147,11 @@ graph LR
 
 ---
 
-###  `[LAYER 05 :: OUTPUT_LOGITS]` — Connect With Me
+### `[LAYER 05 :: OUTPUT_LOGITS]` — Connect With Me
 
 | Node Endpoint | Handle / Address | Signal Badge |
 | :--- | :--- | :--- |
-| **LinkedIn** | Jofan Kalengkongan | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jofan-kalengkongan](https://www.linkedin.com/in/jofan-kalengkongan)) |
+| **LinkedIn** | Jofan Kalengkongan | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jofan-kalengkongan-490418212?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 | **X (Twitter)** | `@brokecsstudent` | [![X](https://img.shields.io/badge/X-%40brokecsstudent-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/brokecsstudent) |
 | **Email** | `jofankalengkongan01@gmail.com` | [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jofankalengkongan01@gmail.com) |
 | **Portfolio** | *Web portfolio coming soon* | ![Status](https://img.shields.io/badge/Status-Building...-f59e0b?style=flat-square) |
