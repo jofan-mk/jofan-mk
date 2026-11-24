@@ -16,25 +16,28 @@
 <tr>
 <td valign="top" width="38%">
 <pre>
-+--------------------------------+
-| [CV_DETECTION :: CONF 0.998]   |
-|                                |
-|          .----------.          |
-|        .'            '.        |
-|       /   .--------.   \       |
-|      |   /          \   |      |
-|      |  |  (o)  (o)  |  |      |
-|      |  |     __     |  |      |
-|       \  \   \__/   /  /       |
-|        '. '.______.' .'        |
-|          '--.____.--'          |
-|        _.-'        '-._        |
-|      .'   [JOFAN-MK]   '.      |
-|     /   AI ARCHITECTURE  \     |
-|    |______________________|    |
-|                                |
-| TENSOR: [1, 3, 224, 224] FP16  |
-+--------------------------------+
++------------------------------------+
+| [CV_DETECTION :: CONF 0.998]       |
++------------------------------------+
+|MMMMMMMMMM}~';_`   ~)*!)tkMMMMMMMMMM|
+|MMMMMMMM{^  .':,. . .:`- .vMMMMMMMMM|
+|MMMMMMb+  .. -:,"++(: .... +MMMMMMMM|
+|MMMMMM) -   .--;|t/oC~    . XMMMMMMM|
+|MMMMMMx. ,';(r[uujzqqu?_;! "#MMMMMMM|
+|MMMMMMMr'(+!";^?tv1tr*/]C{*kMMMMMMMM|
+|MMMMMMb!)?|ic(?|_1c|L(tYxiJ0MMMMMMMM|
+|MMMMMMMxcvjnu}zzYOmaxuZpUXdMMMMMMMMM|
+|MMMMMMMMpv[1jffjzCuXp%{XkkMMMMMMMMMM|
+|MMMMMMMMMM}]iii]cLJuanx{kMMMMMMMMMMM|
+|MMMMMMMM8a)c[]zjJCx%hu%1LUOMMMMMMMMM|
+|MMMMMq}i)  +Li[|?|tC}{}:,tYtxpOMMMMM|
+|MMnx?':): ,!?*]ic?LiLc^-'c{j vwUmwwb|
+|i|?*.,?*:-:"{}(c//ci?;:.~(/}^-)fpM#U|
+|*:!;:^: :::-:Xh1jJft";:-_! ~|-' ~)YO|
+|-_`,~.  -,'`'-_*a}c;_:``+'- /^:-~" ,|
++------------------------------------+
+| TENSOR: [1, 3, 224, 224] FP16      |
++------------------------------------+
 </pre>
 </td>
 <td valign="top" width="62%">
